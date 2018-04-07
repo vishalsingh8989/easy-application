@@ -358,6 +358,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Takt](http://www.takt.com/careers) | San Francisco, CA; Seattle, WA |
 | [Tango](https://www.tango.me/careers/) | New York, NY |
 | [TED](https://www.ted.com/about/our-organization/jobs-at-ted) | New York, NY |
+| [Tesla](https://www.tesla.com/careers) | San Francisco, CA |
 | [Teespring](https://teespring.com/jobs) | San Francisco, CA |
 | [Telenav](http://www.telenav.com/careers) | Sunnyvale, CA |
 | [TextNow](http://about.textnow.com/careers/#openings) | San Francisco, CA; Waterloo, ON; |
