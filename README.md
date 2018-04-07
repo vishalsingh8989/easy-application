@@ -20,6 +20,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Affirm](https://www.affirm.com/careers/) | San Francisco, CA |
 | [Ahrefs](https://ahrefs.com/jobs) | Remote; Singapore |
 | [Airbnb](https://www.airbnb.com/careers) | San Francisco, CA |
+| [Arista Networks] (https://www.arista.com/en/careers) | San Francisco, CA |
 | [Airtable](https://airtable.com/jobs) | San Francisco, CA |
 | [Algebraix](http://algebraixdata.com/section/careers/) | San Diego, CA |
 | [Algolia](https://www.algolia.com/careers) | Paris, France; San Francisco, CA |
